@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
 ![demo](https://github.com/mayararaby/Portofolio-Using-React-Js/blob/master/demo1.gif)
 
 
-![demo](https://github.com/mayararaby/Portofolio-Using-React-Js/blob/master/demo2.gif)
+![demo](https://github.com/mayararaby/Portofolio-Using-React-Js/blob/master/secondDemo.gif)
 
 
 
